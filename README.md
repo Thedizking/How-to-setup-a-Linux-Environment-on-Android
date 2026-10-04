@@ -10,17 +10,7 @@ A tablet with both a keyboard and mouse would be optimal here but this setup wil
 
 # APP CHOICE
 
-Our two main choices of apps to run our terminal are: 
-### UserLAnd 
-(no thats not a typo) which comes with gui out of the box as well as, many different distros of Linux to choose from.
-
-I have ran into issues installing specific dependencies while programming though i.e. SDL & openGL.
-
-
-### Termux 
-which is just a terminal emulator with no gui. Yet much more packages ready to use.
-
-The setup is longer but Termux is the superior option here.
+There is a number of apps we could use for our terminal emulator.  I have found that termux is the simplest to set up without rooting your phone.
 
 # DEPENDENCIES
 
