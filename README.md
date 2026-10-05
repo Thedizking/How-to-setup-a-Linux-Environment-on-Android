@@ -27,4 +27,15 @@ Used to change color and font of the terminal.  Will require FDroid APK Installe
 
 # Initial Setup
 
+Burp setup
+
+Firefox 
+
+gui.sh setup
+neovim 
+nmap
+subfinder
+gobuster
+Nikto
+curl
 
